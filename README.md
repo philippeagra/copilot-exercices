@@ -1,1 +1,1 @@
-# copilot-exercices
+# copilot-exercises
